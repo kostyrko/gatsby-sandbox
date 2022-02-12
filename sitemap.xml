@@ -19,6 +19,6 @@
 <url> <loc>https://chronoblog.now.sh/2022_02_12_new_post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chronoblog.now.sh/full-blog-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chronoblog.now.sh/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://chronoblog.now.sh/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://chronoblog.now.sh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoblog.now.sh/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
